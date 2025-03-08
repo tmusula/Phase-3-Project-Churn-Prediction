@@ -1,6 +1,6 @@
 # Churn Analysis for SyriaTel
  
-This project examines customer churn at SyriaTel, a telecommunication company, through modeling classification and data visualization. The objective is to identify patterns in customer behavior and build and evaluate the best model to forecast churn.
+Through modeling classification and data visualization, this project examines customer churn at SyriaTel, a telecommunication company. The objective is to identify patterns in customer behavior and build and evaluate the best model to forecast churn.
 
 # Contents
 ## 1. Business Understanding

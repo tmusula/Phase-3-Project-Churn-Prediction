@@ -21,12 +21,42 @@ Data Cleaning is necessary to prepare the data for analysis and modeling. The da
 - Addressed class imbalance with SMOTE. 
 The outcome of the cleaning exercise was a clean data set with 18 features.
 
-## 4. Exploratory Data Analysis (EDA)
+## 4. Data Reprocessing
+The data reprocessing actions taken included;
+ - Handling Missing Values- missing values were identified and imputed using mean/mode techniques where appropriate.
+- Feature Encoding - categorical variables were encoded using one-hot encoding.
+- Feature Scaling - numerical features were standardized to improve model performance.
 
-## 5. Reprocessing
+
+
+
+
+## 5. Exploratory Data Analysis (EDA)
+Key observations from the dataset include;
+(a) Detection of outliers - detecting outliers in numerical features, helping visualize data distribution and identification of the extreme values that could impact analysis or modeling.
+
+
 
 ## 6. Modeling
+The following models have been developed to forecast the likelihood of churn-:
+- Logistic Regression
+- Random Forest
+- Gradient Boosting
 
+The models have been evaluated against the following metrics:
+- Accuracy
+- Precision, Recall, F1-Score
+- ROC-AUC Curve
+  
 ## 7. Model Evaluation
+From the results of the metrics, the Random Forest model achieved the highest accuracy at 100%.
 
+The key predictors of churn have been identified as;
+- Call usage patterns (minutes and international calls)
+- Subscription plans (international plan)
+  
 ## 8. Conclusion and Recommendation
+
+## 9. Reference
+- Dataset Source: *(https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset).
+- Libraries Used: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn

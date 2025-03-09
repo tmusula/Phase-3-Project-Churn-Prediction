@@ -56,6 +56,10 @@ The models have been evaluated against the following metrics:
 - Accuracy
 - Precision, Recall, F1-Score
 - ROC-AUC Curve
+
+  Model Highlights Indicated Below;
+![image](https://github.com/user-attachments/assets/289b55c5-e6fc-4a20-b0c0-1bbbd6a5728e)
+
   
 ## 7. Model Evaluation
 From the results of the metrics, the Random Forest model achieved the highest accuracy at 100%.

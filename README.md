@@ -14,6 +14,12 @@ The target variable is churn (Boolean), checking whether the customer churned (T
 Usage data includes daytime calls, evening calls, nighttime calls, and international calls and customer service data includes customer service calls, and customer support interactions.
 
 ## 3. Data Cleaning
+Data Cleaning is necessary to prepare the data for analysis and modeling. The data cleaning actions taken include;
+- Removed duplicates and missing values (no duplicates or missing data)   
+- Dropped irrelevant columns (e.g., phone number, area code).      
+- Converted categorical variables to numeric (e.g., international plan: Yes = 1, No = 0).      
+- Addressed class imbalance with SMOTE. 
+The outcome of the cleaning exercise was a clean data set with 18 features.
 
 ## 4. Exploratory Data Analysis (EDA)
 

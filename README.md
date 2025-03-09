@@ -56,6 +56,23 @@ The key predictors of churn have been identified as;
 - Subscription plans (international plan)
   
 ## 8. Conclusion and Recommendation
+### Conclusion
+- Random Forest is the model with the best level of churn prediction out of the evaluated models.
+- The variables driving churn have been identified
+- The model can enable data-driven decision-making and interventions across the business to manage churn.
+
+### Recommendation
+The following actions have been recommended to SyriaTel from the project
+- Monitoring of usage patterns to identify customers with unusually high daytime call minutes and assess their satisfaction levels through surveys or feedback channels.
+- As part of driving loyalty, introduce daytime offers to provide special discounts or loyalty rewards for high daytime callers to increase satisfaction and loyalty.
+- Explore the option of optimizing pricing plans to allow more callers during off-peak hours.
+- Offer competitive international calling plans.
+- Launch a loyalty program targeting frequent international callers. 
+- Monitor the quality of calls for international calls to ensure service disruption doesn't occur. 
+- Provide tiered pricing plans or rewards based on call volume to incentivize continued usage.
+- Offer loyalty rewards or exclusive perks to customers who have been with the company for a significant period.
+- Proactively anticipate churn - monitor behavior changes in long-term customers (e.g., reduced usage) as early indicators of potential churn.
+- Ensure customer service issues are resolved effectively during the first interaction.
 
 ## 9. Reference
 - Dataset Source: *(https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset).

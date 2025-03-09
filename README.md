@@ -27,8 +27,10 @@ The data reprocessing actions taken included;
 - Feature Encoding - categorical variables were encoded using one-hot encoding.
 - Feature Scaling - numerical features were standardized to improve model performance.
 
+Relationship with categorical data
+![image](https://github.com/user-attachments/assets/d4cbf645-8dc8-44f0-a135-8e8b444537e2)
 
-
+![image](https://github.com/user-attachments/assets/5e169579-4773-4adb-9c24-a0db709e14c7)
 
 
 ## 5. Exploratory Data Analysis (EDA)

@@ -38,7 +38,13 @@ Key observations from the dataset include;
 
 (a) Detection of outliers - detecting outliers in numerical features, helping visualize data distribution and identification of the extreme values that could impact analysis or modeling.
 
+![image](https://github.com/user-attachments/assets/f7772f88-769a-47a8-8213-f93b15667308)
 
+Analyzing numerical features distribution 
+![image](https://github.com/user-attachments/assets/93c60777-3960-4fa9-acce-7339d417e9d7)
+
+Multicollinearity of data to remove highly correlated features
+![image](https://github.com/user-attachments/assets/7e9b21c9-1bb4-4191-9648-48e76529c3f9)
 
 ## 6. Modeling
 The following models have been developed to forecast the likelihood of churn-:

@@ -35,6 +35,7 @@ Relationship with categorical data
 
 ## 5. Exploratory Data Analysis (EDA)
 Key observations from the dataset include;
+
 (a) Detection of outliers - detecting outliers in numerical features, helping visualize data distribution and identification of the extreme values that could impact analysis or modeling.
 
 

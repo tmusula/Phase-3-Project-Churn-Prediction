@@ -28,9 +28,9 @@ The data reprocessing actions taken included;
 - Feature Scaling - numerical features were standardized to improve model performance.
 
 Relationship with categorical data
-![image](https://github.com/user-attachments/assets/d4cbf645-8dc8-44f0-a135-8e8b444537e2)
+![image](https://github.com/user-attachments/assets/0a22f006-5560-4d59-a87f-c902c6086f4c)
 
-![image](https://github.com/user-attachments/assets/5e169579-4773-4adb-9c24-a0db709e14c7)
+![image](https://github.com/user-attachments/assets/127e6365-30c7-446d-9b5e-82bc0a3094ca)
 
 
 ## 5. Exploratory Data Analysis (EDA)
